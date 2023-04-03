@@ -14,7 +14,6 @@ Links for research around surfacing relevant items in a feed
 - [Searching data in Amazon OpenSearch Service](https://docs.aws.amazon.com/opensearch-service/latest/developerguide/searching.html)
 - [Building a Real-time Solr-powered Recommendation Engine](https://www.slideshare.net/lucenerevolution/building-a-realtime-solrpowered-recommendation-engine)
 - [An Efficient Boosting Algorithm for Combining Preferences](https://jmlr.csail.mit.edu/papers/volume4/freund03a/freund03a.pdf)
-- []()
-- []()
-- []()
-- 
+- [Learning to rank with Python scikit-learn](http://www.alfredo.motta.name/learning-to-rank-with-python-scikit-learn/)
+- [News Feed Ranking](https://www.documentcloud.org/documents/21600996-tier2_rank_exp_0518)
+- [News Feed Ranking Drives Engagement](https://medium.com/sequoia-capital/engagement-part-iv-activity-feed-ranking-40d786b9d479)
