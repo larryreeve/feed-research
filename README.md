@@ -12,8 +12,8 @@ Links for research around surfacing relevant items in a feed
   - [High-Quality Recommendation Systems with Elasticsearch](https://opensourceconnections.com/blog/2016/09/09/better-recsys-elasticsearch/)
   - [Amazon OpenSearch Service Resources](https://aws.amazon.com/opensearch-service/resources/?whats-new-ess.sort-by=item.additionalFields.postDateTime&whats-new-ess.sort-order=desc)
   - [Searching data in Amazon OpenSearch Service](https://docs.aws.amazon.com/opensearch-service/latest/developerguide/searching.html)  
-  - [Apache Lucene - Scoring](https://lucene.apache.org/core/3_5_0/scoring.html)
   - [Building a Real-time Solr-powered Recommendation Engine](https://www.slideshare.net/lucenerevolution/building-a-realtime-solrpowered-recommendation-engine)
+  - [Apache Lucene - Scoring](https://lucene.apache.org/core/3_5_0/scoring.html)
 
 - Evaluation
   - [Evaluation Metrics for Recommender Systems](https://towardsdatascience.com/evaluation-metrics-for-recommender-systems-df56c6611093)
